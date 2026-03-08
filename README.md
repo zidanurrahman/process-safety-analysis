@@ -133,5 +133,5 @@ It is also a **high-consequence hazard** — toxic (IDLH: 300 ppm), flammable (1
 
 ---
 
-*Zid | Independent Chemical Engineering Study | 2025*
+*Zidanur Rahman | Independent Chemical Engineering Study | 2025*
 *Based on AIChE ELA 950–952 certified training | Prepared as part of Romanian Government Scholarship application*
