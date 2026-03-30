@@ -110,9 +110,9 @@ It is also a **high-consequence hazard** — toxic (IDLH: 300 ppm), flammable (1
 
 | Certification | Issuer | Content |
 |--------------|--------|---------|
-| AIChE ELA 950 | American Institute of Chemical Engineers | Introduction to Process Safety |
-| AIChE ELA 951 | AIChE CCPS | Risk-Based Process Safety (RBPS) |
-| AIChE ELA 952 | AIChE CCPS | Management of Change (MOC) |
+| AIChE ELA 950 | American Institute of Chemical Engineers | The Importance of Process Safety |
+| AIChE ELA 951 | American Institute of Chemical Engineers | Hazard Recognition |
+| AIChE ELA 952 | American Institute of Chemical Engineers | Minimizing and Controlling Process Safety Hazards |
 
 ---
 
